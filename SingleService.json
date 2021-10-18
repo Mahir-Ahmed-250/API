@@ -1,88 +1,52 @@
 {
-    "services": [
+    "service": [
         {
-            "ID": 100,
             "name": "Cosmetic Dentistry",
-            "price": 15,
-            "img": "./images/services/cosmetics.jpg",
-            "description": "Today, cosmetic dentistry is more popular than ever, from whitening and shaping to closing spaces and replacing teeth."
+            "inner": {
+                "id": "1"
+            }
         },
         {
-            "ID": 101,
-            "name": "Pediatric Dentistry",
-            "price": 12,
-            "img": "./images/services/pediatric.jpg",
-            "description": "Pediatric dentists specialize in oral care for infants, toddlers, children, and teenagers. They are trained to handle: Treatment of children under anesthesia and sedation. Treatment of medically compromised children and adolescents"
+            "name": "Cosmetic Dentistry",
+            "inner": {
+                "id": "2"
+            }
         },
         {
-            "ID": 102,
-            "name": "Periodontal Therapy",
-            "price": 20,
-            "img": "./images/services/periodontal.jpg",
-            "description": "Periodontal therapy includes both surgical and non-surgical techniques to restore health to the tissues that support the teeth (gums and bone) and prevent tooth loss."
+            "name": "Cosmetic Dentistry",
+            "inner": {
+                "id": "3"
+            }
         },
         {
-            "ID": 103,
-            "name": "Tooth Whitening",
-            "price": 15,
-            "img": "./images/services/whitening.jpg",
-            "description": "Tooth whitening can be a very effective way of lightening the natural colour of your teeth without removing any of the tooth surface. It cannot make a complete colour change, but it may lighten the existing shade."
+            "name": "Cosmetic Dentistry",
+            "inner": {
+                "id": "4"
+            }
         },
         {
-            "ID": 104,
-            "name": "Preventive Dentistry",
-            "price": 15,
-            "img": "./images/services/preventive.jpg",
-            "description": "The focus of preventive dentistry is usually to keep the teeth, gums, and mouth as healthy as possible to prevent tooth decay, gum disease, and other issues."
+            "name": "Cosmetic Dentistry",
+            "inner": {
+                "id": "5"
+            }
         },
         {
-            "ID": 105,
-            "name": "Dental Implants",
-            "price": 18,
-            "img": "./images/services/implants.jpg",
-            "description": "Dental implants are replacement tooth roots. Implants provIDe a strong foundation for fixed (permanent) or removable replacement teeth that are made to match your natural teeth."
+            "name": "Cosmetic Dentistry",
+            "inner": {
+                "id": "6"
+            }
         },
         {
-            "ID": 106,
-            "name": "Dental BrIDge",
-            "price": 20,
-            "img": "./images/services/brIDge.jpg",
-            "description": "A dental brIDge permanently replaces missing teeth with false teeth. The brIDge is attached to the teeth on either sIDe of the gap"
+            "name": "Cosmetic Dentistry",
+            "inner": {
+                "id": "7"
+            }
         },
         {
-            "ID": 107,
-            "name": "Dental Crowns",
-            "price": 12,
-            "img": "./images/services/crowns.jpg",
-            "description": "Dental crowns are caps placed on top of damaged teeth. Crowns are used to protect, cover and restore the shape of your teeth when fillings don't solve the problem."
-        },
-        {
-            "ID": 108,
-            "name": "Dental Check-ups",
-            "price": 13,
-            "img": "./images/services/check-ups.jpg",
-            "description": "Using various tools and instruments they will remove or scrape tartar and plaque from around your gum line and the surface of your teeth."
-        },
-        {
-            "ID": 109,
-            "name": "Scaling and Cleaning",
-            "price": 10,
-            "img": "./images/services/scaling.jpg",
-            "description": "Scaling and cleaning involves the removal of built-up debris from the teeth. This may include food particles, soft plaque (bacterial growth) or hard calculus (caused by the continual accumulation of plaque and minerals from saliva, sometimes called tartar). Plaque and calculus are the main causes of gum disease. "
-        },
-        {
-            "ID": 110,
-            "name": "Dental Fillings",
-            "price": 13,
-            "img": "./images/services/filling.jpg",
-            "description": "Tooth decay that has caused a cavity (hole) is treated with dental fillings. The dentist uses a drill and other tools to remove the decay. The cavity is cleaned, dried and sealed with a filling material."
-        },
-        {
-            "ID": 111,
-            "name": "Root Canal",
-            "price": 25,
-            "img": "./images/services/root.jpg",
-            "description": "Root canal treatment is a procedure that replaces a tooth’s damaged or infected pulp with a filling. The ‘pulp' (often called the nerve of the tooth) is sensitive tissue that provIDes oxygen, nutrients and feeling to the tooth. "
+            "name": "Cosmetic Dentistry",
+            "inner": {
+                "id": "8"
+            }
         }
     ]
 }
