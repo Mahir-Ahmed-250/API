@@ -3,7 +3,7 @@
         "id": 100,
         "name": "Cosmetic Dentistry",
         "price": 15,
-        "img": "./images/services/cosmetics.jpg",
+        "img": "https://i.ibb.co/k27snCB/cosmetics.jpg",
         "description": "Today, cosmetic dentistry is more popular than ever, from whitening and shaping to closing spaces and replacing teeth."
     },
     {
