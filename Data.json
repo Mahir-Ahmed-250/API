@@ -24,7 +24,7 @@
         "id": 103,
         "name": "Tooth Whitening",
         "price": 15,
-        "img": "./images/services/whitening.jpg",
+        "img": "https://ibb.co/wBTbYsJ",
         "description": "Tooth whitening can be a very effective way of lightening the natural colour of your teeth without removing any of the tooth surface. It cannot make a complete colour change, but it may lighten the existing shade."
     },
     {
