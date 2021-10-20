@@ -4,7 +4,8 @@
         "name": "Cosmetic Dentistry",
         "price": 15,
         "img": "https://i.ibb.co/k27snCB/cosmetics.jpg",
-        "description": "Today, cosmetic dentistry is more popular than ever, from whitening and shaping to closing spaces and replacing teeth."
+        "description": "Today, cosmetic dentistry is more popular than ever, from whitening and shaping to closing spaces and replacing teeth.",
+        "doctor": "Dr Guillermo Sullivan"       
     },
     {
         "id": 101,
